@@ -5,7 +5,7 @@ Hi, My name is **David Segura** and i think Coding is ***Awesome!!!***
 
 Growth Mindset is learning 100's of ways to fail to find one way to succeed. It's believing you can achive anything with practice. It's learning not to give up on the first try.
 
-### Tips you can use. ###
+### Reminders ###
 
 - I don't know yet, but I will!
 - If I don't know something, I can always ask questions!

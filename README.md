@@ -13,4 +13,4 @@ Growth Mindset is learning 100's of ways to fail to find one way to succeed. It'
   - Someone else might have the same question.
 - Keep trying different things! Dont give up.
 
-Link to my Github is (https://davidsegura07.github.io/reading-notes/)
+Link to my Github is (https://github.com/DavidSegura07)

@@ -9,4 +9,4 @@ My explanation of growth mindset goes here...
   - 3rd item goes here.
 - Keep trying different things! Dont give up.
 
-Link to my Github is <https://dsegura07.github.io/reading-notes/>
+Link to my Github is (https://dsegura07.github.io/reading-notes/)

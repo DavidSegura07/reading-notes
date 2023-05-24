@@ -6,7 +6,7 @@ Hi, My name is David (He/Him) from Santa Ana, CA. After a decade-long tenure at 
 
 ### *This website is about my journey here at Code Fellows, It contains all my notes.*
 
-## Table of Contents
+## 102 Table of Contents
 
 - [class 1 notes](https://davidsegura07.github.io/reading-notes/code-102/class1notes)
 - [class 2 notes](https://davidsegura07.github.io/reading-notes/code-102/class2notes)
@@ -16,3 +16,21 @@ Hi, My name is David (He/Him) from Santa Ana, CA. After a decade-long tenure at 
 - [class 6 notes](https://davidsegura07.github.io/reading-notes/code-102/class6notes)
 - [class 7 notes](https://davidsegura07.github.io/reading-notes/code-102/class7notes)
 - [class 8 notes](https://davidsegura07.github.io/reading-notes/code-102/class8notes)
+
+## 201 Table of Contents
+
+- [class 1 notes](https://davidsegura07.github.io/reading-notes/code-1201/class1notes)
+- [class 2 notes](https://davidsegura07.github.io/reading-notes/code-201/class2notes)
+- [class 3 notes](https://davidsegura07.github.io/reading-notes/code-201/class3notes)
+- [class 4 notes](https://davidsegura07.github.io/reading-notes/code-201/class4notes)
+- [class 5 notes](https://davidsegura07.github.io/reading-notes/code-201/class5notes)
+- [class 6 notes](https://davidsegura07.github.io/reading-notes/code-201/class6notes)
+- [class 7 notes](https://davidsegura07.github.io/reading-notes/code-201/class7notes)
+- [class 8 notes](https://davidsegura07.github.io/reading-notes/code-201/class8notes)
+- [class 9 notes](https://davidsegura07.github.io/reading-notes/code-201/class9notes)
+- [class 10 notes](https://davidsegura07.github.io/reading-notes/code-201/class10notes)
+- [class 11 notes](https://davidsegura07.github.io/reading-notes/code-201/class11notes)
+- [class 12 notes](https://davidsegura07.github.io/reading-notes/code-201/class12notes)
+- [class 13 notes](https://davidsegura07.github.io/reading-notes/code-201/class13notes)
+- [class 14 notes](https://davidsegura07.github.io/reading-notes/code-201/class14notes)
+- [class 15 notes](https://davidsegura07.github.io/reading-notes/code-201/class15notes)

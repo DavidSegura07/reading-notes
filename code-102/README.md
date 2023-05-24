@@ -8,11 +8,11 @@ Hi, My name is David (He/Him) from Santa Ana, CA. After a decade-long tenure at 
 
 ## Table of Contents
 
-- [class 1 notes](https://davidsegura07.github.io/reading-notes/class1notes)
-- [class 2 notes](https://davidsegura07.github.io/reading-notes/class2notes)
-- [class 3 notes](https://davidsegura07.github.io/reading-notes/class3notes)
-- [class 4 notes](https://davidsegura07.github.io/reading-notes/class4notes)
-- [class 5 notes](https://davidsegura07.github.io/reading-notes/class5notes)
-- [class 6 notes](https://davidsegura07.github.io/reading-notes/class6notes)
-- [class 7 notes](https://davidsegura07.github.io/reading-notes/class7notes)
-- [class 8 notes](https://davidsegura07.github.io/reading-notes/class8notes)
+- [class 1 notes](https://davidsegura07.github.io/reading-notes/code-102/class1notes)
+- [class 2 notes](https://davidsegura07.github.io/reading-notes/code-102/class2notes)
+- [class 3 notes](https://davidsegura07.github.io/reading-notes/code-102/class3notes)
+- [class 4 notes](https://davidsegura07.github.io/reading-notes/code-102/class4notes)
+- [class 5 notes](https://davidsegura07.github.io/reading-notes/code-102/class5notes)
+- [class 6 notes](https://davidsegura07.github.io/reading-notes/code-102/class6notes)
+- [class 7 notes](https://davidsegura07.github.io/reading-notes/code-102/class7notes)
+- [class 8 notes](https://davidsegura07.github.io/reading-notes/code-102/class8notes)

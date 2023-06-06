@@ -1,18 +1,18 @@
 # JavaScript Basics
 
-## what is Javascript?
+### what is Javascript?
 
 JavaScript is a powerful programming language that can add interactivity to a website.
 
 JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!
 
-## Variables
+### Variables
 
 *Variables* are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable.
 
 JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
 
-## Variable Data Types
+### Variable Data Types
 
 **String** - is one of the primitive values and the String object is a wrapper around a String primitive.
 
@@ -26,30 +26,30 @@ Each item in an array has a number attached to it, called a numeric index, that 
 
 **Object** - In JavaScript, objects can be seen as a collection of properties. With the object literal syntax, a limited set of properties are initialized; then properties can be added and removed. Property values can be values of any type, including other objects, which enables building complex data structures. Properties are identified using key values. A key value is either a String value or a Symbol value.
 
-## Comments
+### Comments
 
 **Comments** - Comments are snippets of text that can be added along with code. The browser ignores text marked as comments. You can write comments in JavaScript just as you can in CSS:
 
-## Compose a short poem describing how HTTP sends data between computers
+### 1. Compose a short poem describing how HTTP sends data between computers
 
 HTTP connects computers wide, Sending data from side to side.
 Like whispers in a secret code, It shares info on the digital road.
 
-## Describe how HTML, CSS, and JS files are “parsed” in the browser
+### 2. Describe how HTML, CSS, and JS files are “parsed” in the browser
 
 A HTML file it reads the file from top to bottom, following the tags and understanding what they mean. As for CSS, it looks for instructions on how to style the HTML elements. It checks which elements should have certain colors, sizes, and positions to make the web page look nice and organized.Lastly JavasScript files the browser reads the code and follows the instructions to make the web page interactive. It looks for actions to take when buttons are clicked, forms are submitted, or other events happen.
 
 In simple terms, the browser reads the HTML to understand the content, the CSS to make it look good, and the JavaScript to make it do cool things.
 
-## How can you find images to add to a Website?
+### 3. How can you find images to add to a Website?
 
 You can find images on Google (make sure it's not copy right content), Stock photos websites, hire a photographer, and ect.
 
-## How do you create a String vs a Number in JavaScript?
+### 4. How do you create a String vs a Number in JavaScript?
 
 In Javascript you can create a string by enclosing the text inside or characters with single quotes or double quotes. As for Numbers you can create by simply assigning a numeric value to the variable.
 
-## What is a Variable and why are they important in JavaScript?
+### 5. What is a Variable and why are they important in JavaScript?
 
 A variable is like a labeled box where you can store different kinds of information. It's important because it lets you keep track of data and use it in your code. Variables help you do things like perform calculations, make decisions, and remember information as your program runs. They make it easier to write and organize your code, and they help your program be more flexible and interactive.
 
@@ -90,21 +90,21 @@ Attributes: Optional properties that provide additional information about the el
 
 **Closing tag:** It marks the end of the element and is denoted by a forward slash (/) preceding the element's name.
 
-## What is the Difference between article and Section element tags?
+### What is the Difference between article and Section element tags?
 
 **Article** represents a self-contained composition or independent piece of content that can be distributed or syndicated separately from the rest of the page. It typically represents a blog post, news article, forum post, or similar content.
 
 **Section** element is more general and used to divide content into different parts based on topics or relationships.
 
-## What Elements does a “typical” website include?
+### 1. What Elements does a “typical” website include?
 
 A typical website has different parts, such as a header with a logo and navigation menu, a main section with the main content, separate sections for different topics, and a footer with information like copyright or contact details.
 
-## How does metadata influence Search Engine Optimization?
+### 2. How does metadata influence Search Engine Optimization?
 
 Metadata is information about a webpage that helps search engines understand what the page is about. It affects how well the page shows up in search results. Things like page titles, descriptions, and keywords are examples of metadata.
 
-## How is the "Meta" HTML tag used when specifying metadata?
+### 3. How is the "Meta" HTML tag used when specifying metadata?
 
 The meta tag in HTML is used to provide metadata. It goes in the head section of the HTML document and has attributes like name and content to specify different types of metadata. For example, it can include a description of the page that search engines or social media platforms can use.
 
@@ -112,7 +112,7 @@ The meta tag in HTML is used to provide metadata. It goes in the head section of
 
 ## ***How to start to design a Website***
 
-## What is the first step to designing a Website?
+### 1. What is the first step to designing a Website?
 
 The first step to designing a website is "Project Ideation"  Its 3 questions that you got to ask before you start any website.
 
@@ -122,7 +122,7 @@ The first step to designing a website is "Project Ideation"  Its 3 questions tha
 
     -What needs to be done, and in what order, to reach my goals?
 
-## What is the most important question to answer when designing a Website?
+### 2. What is the most important question to answer when designing a Website?
 
 Answer: What exactly do I want to accomplish?
 
@@ -132,7 +132,7 @@ Answer: What exactly do I want to accomplish?
 
 When you use an "h1" element instead of a "span" element for a top-level heading, it helps make your website easier to understand by search engines and screen readers. It's like using a special sign that says "Hey, this is the main heading!" This can improve your website's visibility in search results and make it more accessible for people to see.
 
-## What are the benefits of using semantic tags in our HTML?
+### What are the benefits of using semantic tags in our HTML?
 
 Semantic tags are like special labels for different parts of your website. It helps you stay organized and describe the content in a different way.
 
@@ -143,6 +143,6 @@ Semantic tags are like special labels for different parts of your website. It he
 - Making things happen when users interact with a web page: JavaScript allows you to create buttons that do something when clicked, check if the information you entered in a form is correct, show or hide things when you move your mouse, and more.
 - Changing and updating the content of a web page: JavaScript lets you get new information from the internet without reloading the whole page, change what you see on the screen when something happens, and make your web page more interesting and interactive.
 
-## How can you add JavaScript to an HTML document?
+### How can you add JavaScript to an HTML document?
 
 You put a Script tag and closing tag under the footer of your HTML file.

@@ -51,6 +51,6 @@ Hi, My name is David (He/Him) from Santa Ana, CA. After a decade-long tenure at 
 - [class 12 notes](code-301/class12notes.md)
 - [class 13 notes](code-301/class13notes.md)
 - [class 14 notes](code-301/class14notes.md)
-- [class 15 notes](code-301/class15notes.md
+- [class 15 notes](code-301/class15notes.md)
 
 ## 401 Advanced Software Development

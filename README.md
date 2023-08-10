@@ -37,4 +37,20 @@ Hi, My name is David (He/Him) from Santa Ana, CA. After a decade-long tenure at 
 
 ## 301 Intermediate Software Development
 
+- [class 1 notes](code-301/class1notes.md)
+- [class 2 notes](code-301/class2notes.md)
+- [class 3 notes](code-301/class3notes.md)
+- [class 4 notes](code-301/class4notes.md)
+- [class 5 notes](code-301/class5notes.md)
+- [class 6 notes](code-301/class6notes.md)
+- [class 7 notes](code-301/class7notes.md)
+- [class 8 notes](code-301/class8notes.md)
+- [class 9 notes](code-301/class9notes.md)
+- [class 10 notes](code-301/class10notes.md)
+- [class 11 notes](code-301/class11notes.md)
+- [class 12 notes](code-301/class12notes.md)
+- [class 13 notes](code-301/class13notes.md)
+- [class 14 notes](code-301/class14notes.md)
+- [class 15 notes](code-301/class15notes.md
+
 ## 401 Advanced Software Development
